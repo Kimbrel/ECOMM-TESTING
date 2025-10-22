@@ -56,7 +56,3 @@ Execute the test suite from the root directory using the `pytest` command:
     ```
 
 ---
-
-## 📂 Project Structure
-
-The codebase is organized following best practices for maintainability:
